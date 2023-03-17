@@ -1,0 +1,65 @@
+2023-03/02 10:36:28 INFO  Log:18 - =========getAmazonTitleTEST START=========
+2023-03/02 10:36:28 INFO  Log:24 - getAmazonTitle testcase is passed
+2023-03/02 10:36:28 INFO  Log:21 - =========getAmazonTitleTEST END=====
+2023-03/02 10:37:16 INFO  Log:18 - =========verifyMyAmazonLogoTEST START=========
+2023-03/02 10:37:16 INFO  Log:24 - verifyMyAmazonLogo testcase is passed
+2023-03/02 10:37:16 INFO  Log:21 - =========verifyMyAmazonLogoTEST END=====
+2023-03/02 10:39:53 INFO  Log:18 - =========LoginTestTEST START=========
+2023-03/02 10:42:18 INFO  Log:18 - =========LoginTestTEST START=========
+2023-03/02 10:42:22 INFO  Log:24 - user successfully entered email and password
+2023-03/02 10:42:26 INFO  Log:24 - user gets the current URL
+2023-03/02 10:42:26 INFO  Log:24 - User gets the Current URL
+2023-03/02 10:43:16 INFO  Log:18 - =========LoginTestTEST START=========
+2023-03/02 10:43:20 INFO  Log:24 - user successfully entered email and password
+2023-03/02 10:43:20 INFO  Log:24 - user gets the current URL
+2023-03/02 10:43:20 INFO  Log:24 - User gets the Current URL
+2023-03/02 10:44:47 INFO  Log:18 - =========LoginTestTEST START=========
+2023-03/02 10:44:57 INFO  Log:24 - user successfully entered email and password
+2023-03/02 10:45:13 INFO  Log:24 - user gets the current URL
+2023-03/02 10:45:13 INFO  Log:24 - User gets the Current URL
+2023-03/02 10:45:13 INFO  Log:24 - LoginTest TestCase is passed
+2023-03/02 10:45:13 INFO  Log:21 - =========LoginTestTEST END=====
+2023-03/02 10:49:21 INFO  Log:18 - =========productSearchTestTEST START=========
+2023-03/02 10:49:32 INFO  Log:24 - productSearchTest
+2023-03/02 10:49:32 INFO  Log:21 - =========productSearchTestTEST END=====
+2023-03/02 10:49:43 INFO  Log:18 - =========verifyHelloAddressTEST START=========
+2023-03/02 10:49:51 INFO  Log:24 - verifyHelloAddress TestCase is passed
+2023-03/02 10:49:51 INFO  Log:21 - =========verifyHelloAddressTEST END=====
+2023-03/02 10:55:40 INFO  Log:18 - =========selectProductTestTEST START=========
+2023-03/02 10:55:45 INFO  Log:24 - user is successfully entered email and password
+2023-03/02 10:55:51 INFO  Log:24 - user enter the product name like IPHONE 12
+2023-03/02 11:00:56 INFO  Log:18 - =========selectProductTestTEST START=========
+2023-03/02 11:00:59 INFO  Log:24 - user is successfully entered email and password
+2023-03/02 11:01:06 INFO  Log:24 - user enter the product name like IPHONE 12
+2023-03/02 11:01:06 INFO  Log:24 - selectProductTest TestCase is PASSED
+2023-03/02 11:01:06 INFO  Log:21 - =========selectProductTestTEST END=====
+2023-03/02 11:13:47 INFO  Log:18 - =========addToCartTestTEST START=========
+2023-03/02 11:13:53 INFO  Log:24 - User is successfully clickOn the signin 
+2023-03/02 11:13:59 INFO  Log:24 - User secessfully enter email and password
+2023-03/02 11:14:19 INFO  Log:24 - user entered iphone 12
+2023-03/02 11:14:20 INFO  Log:24 - user successfully select the product
+2023-03/02 11:17:43 INFO  Log:18 - =========addToCartTestTEST START=========
+2023-03/02 11:17:48 INFO  Log:24 - User is successfully clickOn the signin 
+2023-03/02 11:17:56 INFO  Log:24 - User secessfully enter email and password
+2023-03/02 11:18:34 INFO  Log:24 - user entered iphone 12
+2023-03/02 11:18:36 INFO  Log:24 - user successfully select the product
+2023-03/02 11:21:04 INFO  Log:18 - =========addToCartTestTEST START=========
+2023-03/02 11:21:07 INFO  Log:24 - User is successfully clickOn the signin 
+2023-03/02 11:21:15 INFO  Log:24 - User secessfully enter email and password
+2023-03/02 11:21:44 INFO  Log:24 - user entered iphone 12
+2023-03/02 11:21:45 INFO  Log:24 - user successfully select the product
+2023-03/02 11:29:07 INFO  Log:18 - =========addToCartTestTEST START=========
+2023-03/02 11:29:15 INFO  Log:24 - User is successfully clickOn the signin 
+2023-03/02 11:29:27 INFO  Log:24 - User secessfully enter email and password
+2023-03/02 11:30:20 INFO  Log:24 - user entered iphone 12
+2023-03/02 11:30:21 INFO  Log:24 - user successfully select the product
+2023-03/02 11:56:39 INFO  Log:18 - =========addToCartTestTEST START=========
+2023-03/02 11:56:42 INFO  Log:24 - User is successfully clickOn the signin 
+2023-03/02 11:56:50 INFO  Log:24 - User secessfully enter email and password
+2023-03/02 11:57:24 INFO  Log:24 - user entered iphone 12
+2023-03/02 11:57:25 INFO  Log:24 - user successfully select the product
+2023-03/02 12:03:16 INFO  Log:18 - =========addToCartTestTEST START=========
+2023-03/02 12:03:18 INFO  Log:24 - User is successfully clickOn the signin 
+2023-03/02 12:03:20 INFO  Log:24 - User secessfully enter email and password
+2023-03/02 12:03:27 INFO  Log:24 - user entered iphone 12
+2023-03/02 12:03:28 INFO  Log:24 - user successfully select the product
